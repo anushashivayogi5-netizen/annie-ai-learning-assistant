@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# PyCharm and Python files
+.idea/
+__pycache__/
+*.py[cod]
+
+# Private/generated learning data
+learning_progress.json
+uploaded_documents/
+*.pdf
