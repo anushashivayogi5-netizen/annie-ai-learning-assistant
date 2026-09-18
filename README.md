@@ -123,3 +123,4 @@ This repository is a record of the build: experiments, implementation decisions,
 Built with curiosity, one learning milestone at a time. 🌟
 
 </div>
+Learning Git and GitHub in public — first practice update. 🚀
