@@ -10,3 +10,5 @@ __pycache__/
 learning_progress.json
 uploaded_documents/
 *.pdf
+
+.DS_Store
